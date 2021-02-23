@@ -10,5 +10,11 @@
         "description":"XXX",
         "ingredients": ["X", "X", "X"],
         "popularity": 0
+    },
+    {
+        "cocktail":"Ellie's Fancy Cocktail",
+        "description":"XXX",
+        "ingredients": ["X", "X", "X"],
+        "popularity": 0
     }
 ]
