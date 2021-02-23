@@ -1,0 +1,14 @@
+[
+    {
+        "cocktail":"Black & Tan",
+        "description":"XXX",
+        "ingredients": ["X", "X", "X"],
+        "popularity": 0
+    },
+    {
+        "cocktail":"Mojito",
+        "description":"XXX",
+        "ingredients": ["X", "X", "X"],
+        "popularity": 0
+    }
+]
